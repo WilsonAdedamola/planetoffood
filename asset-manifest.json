@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/planetoffoods.git/static/css/main.49aa8c26.css",
+    "main.js": "/planetoffoods.git/static/js/main.39c19f6a.js",
+    "index.html": "/planetoffoods.git/index.html",
+    "main.49aa8c26.css.map": "/planetoffoods.git/static/css/main.49aa8c26.css.map",
+    "main.39c19f6a.js.map": "/planetoffoods.git/static/js/main.39c19f6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49aa8c26.css",
+    "static/js/main.39c19f6a.js"
+  ]
+}
